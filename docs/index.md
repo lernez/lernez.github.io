@@ -12,7 +12,12 @@ To function as an effective international auxiliary language, Ido was
 specifically designed to be [grammatically], [orthographically], and
 [lexicographically regular] (and, above all, easy to learn and use).
 
+
+
+<!-- Tooltips -->
 *[constructed language]: A language that has been artificially created rather than having evolved naturally through use.
+
+<!-- URLs -->
 [grammatically]: https://en.wikipedia.org/wiki/Grammar
 [orthographically]: https://en.wikipedia.org/wiki/Orthography
 [lexicographically regular]: https://en.wikipedia.org/wiki/Lexicon
