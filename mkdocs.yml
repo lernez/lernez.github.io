@@ -5,21 +5,21 @@ theme:
   custom_dir: overrides
 
   palette: 
-    - media: "(prefers-color-scheme: dark)"
-      scheme: slate
-      toggle:
-        icon: material/toggle-switch-off-outline
-        name: Switch to light mode
-      primary: deep purple
-      accent: deep purple
-
     - media: "(prefers-color-scheme: light)"
       scheme: default
       toggle:
-        icon: material/toggle-switch
+        icon: material/brightness-7
         name: Switch to dark mode
-      primary: deep purple
-      accent: deep purple
+      primary: light blue
+      accent: light blue
+
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      toggle:
+        icon: material/brightness-4
+        name: Switch to light mode
+      primary: light blue
+      accent: light blue
 
   features:
     - navigation.instant
@@ -43,7 +43,10 @@ plugins:
       enable_creation_date: true
 
 nav:
-  - Home: https://lernez.github.io
+  - Home:
+    - index.md
+    - Prefixes: prefixes.md
+    - Suffixes: suffixes.md
 
 extra:
   social:
@@ -61,7 +64,7 @@ repo_name: lernez/lernez.github.io
 edit_uri: edit/main/docs/
 
 markdown_extensions:
-  - abbr # use abbreviations, like hovertext
+  - abbr # use abbreviations, like hover text
   - admonition # note boxes
   - attr_list # add html and css attributes to most stuff
   - def_list # definitions like MediaWiki
@@ -74,7 +77,7 @@ markdown_extensions:
   - pymdownx.caret # insert, superscript
   - pymdownx.mark # highlighting
   - pymdownx.tilde # delete, subscript
-  - pymdownx.details # collapsable note boxes for admonition
+  - pymdownx.details # collapsible note boxes for admonition
   - pymdownx.highlight:
       linenums: true
       anchor_linenums: true
