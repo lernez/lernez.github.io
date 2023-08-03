@@ -45,6 +45,7 @@ plugins:
 nav:
   - Home:
     - index.md
+    - Correlatives: correlatives.md
     - Prefixes: prefixes.md
     - Suffixes: suffixes.md
 
@@ -91,3 +92,7 @@ markdown_extensions:
         - includes/abbreviations.md
   - pymdownx.tabbed:
       alternate_style: true
+
+watch:
+  - overrides/
+  - includes/
