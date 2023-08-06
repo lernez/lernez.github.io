@@ -9,15 +9,21 @@ Format:
 
 ### Relative, interrogative, and demonstrative
 
-|              | What (Relative and interrogative) | That (Demonstrative)                      |
-| ------------ | --------------------------------- | ----------------------------------------- |
-| **Person**   | qua/qui<br/>*who*                 | (i)ta/(i)ti<br/>*that (one)/those (ones)* |
-| **Thing**    | quo<br/>*what*                    | (i)to<br/>*that (thing)*                  |
-| **Place**    | ube<br/>*where*                   | ibe<br/>*there*                           |
-| **Time**     | kande<br/>*when*                  | lore<br/>*then*                           |
-| **Way**      | quale<br/>*how*                   | tale<br/>*that way*                       |
-| **Quality**  | quala<br/>*what kind of*          | tala<br/>*such (of that kind), such like* |
-| **Quantity** | quante<br/>*how much*             | tante<br/>*that much*                     |
+|                          |                      | What (Relative and interrogative) | That (Demonstrative)                      |
+| ------------------------ | -------------------- | --------------------------------- | ----------------------------------------- |
+| **Person/individual**    | **-u**               | qua/qui<br/>*who*                 | (i)ta/(i)ti<br/>*that (one)/those (ones)* |
+| **Thing**                | **-o**               | quo<br/>*what*                    | (i)to<br/>*that (thing)*                  |
+| **Plural**               | **-i**               |                                   |                                           |
+| **Adjective**            | **-a**               |                                   |                                           |
+| **Motive**               | **pro**              |                                   |                                           |
+| **Possession**           | **di**               |                                   |                                           |
+| **Place**                | **-loke**, **-u**    | ube<br/>*where*                   | ibe<br/>*there*                           |
+| **Time**                 | **-tempe**           | kande<br/>*when*                  | lore<br/>*then*                           |
+| **Way/Manner**           | **-e**, **-maniere** | quale<br/>*how*                   | tale<br/>*that way*                       |
+| **Quality**              | **-a**, **-speca**   | quala<br/>*what kind of*          | tala<br/>*such (of that kind), such like* |
+| **Quantity**             | **-e?**              | quante<br/>*how much*             | tante<br/>*that much*                     |
+| **Quantity – noun**      | **-o**               | quanto<br/>*quantity, amount*     | tanto<br/>*that much*                     |
+| **Quantity – adjective** | **-a**               | quanta<br/>*how much, how many*   | tanta<br/>*that much*                     |
 
 ### Indefinite quantities
 
@@ -46,5 +52,19 @@ Format:
 ## Sources
 
 * [http://io.ido.li/wp-content/uploads/2015/07/Correlatives.pdf][pdf]
+* [https://en.wiktionary.org/wiki/Category:Ido_correlatives][wkt]
+* [https://nekredebla.wordpress.com/](https://nekredebla.wordpress.com/)
 
 [pdf]: http://io.ido.li/wp-content/uploads/2015/07/Correlatives.pdf
+[wkt]: https://en.wiktionary.org/wiki/Category:Ido_correlatives
+
+<!-- Footnotes -->
+[^1]: The initial syllable can omitted: *ta*, *to*, *ti*, *ta*, *pro to*,
+    *di to*.
+[^2]: Because of the ease of pronunciation, the first word ending can be
+    omitted: *ultempe*, *nultempe*, *ulspeca*, *nulspeca*, *ulmaniere*,
+    *nulmaniere*.
+[^3]: *omnatempe* is technically correct and in turn usable, but *sempre* is
+    the official word.
+
+<!-- BUFFER -->
